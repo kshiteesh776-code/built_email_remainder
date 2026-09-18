@@ -1,0 +1,6 @@
+name,email,due_date,subject,reminder_message
+John Doe,john@example.com,2026-09-20,Electricity Bill Due,Your electricity bill is due on Sept 20.
+Alice Smith,alice@example.com,2026-09-21,Assignment Reminder,Submit your DBMS assignment before Sept 21.
+Bob Johnson,bob@example.com,2026-09-18,Server Maintenance Window,Scheduled maintenance is planned for tonight. Please save all work.
+Carol Williams,carol@example.com,2026-09-28,Gym Membership Renewal,Your monthly gym membership will renew next week.
+David Lee,david@example.com,2026-09-15,Past Due Notice,This is a reminder about your invoice from earlier this month.
